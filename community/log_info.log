@@ -1,0 +1,7 @@
+2023-10-24 13:39:22,644 INFO [main] c.h.c.LoggerTests [StartupInfoLogger.java:50] Starting LoggerTests on LAPTOP-PMOGTTL8 with PID 22584 (started by hao in D:\StudyNote\projects\community)
+2023-10-24 13:39:22,646 INFO [main] c.h.c.LoggerTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2023-10-24 13:39:24,327 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-24 13:39:24,607 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2023-10-24 13:39:24,846 INFO [main] c.h.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 2.543 seconds (JVM running for 3.198)
+2023-10-24 13:39:25,078 INFO [main] c.h.c.LoggerTests [LoggerTests.java:14] info log
+2023-10-24 13:39:25,088 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
